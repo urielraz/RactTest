@@ -1,0 +1,19 @@
+.Card {
+    padding: 15px;
+    border: 1px solid lightcyan;
+    margin-bottom: 10px;
+    background: white;
+    flex-wrap: wrap;
+    /* width: 23em; */
+    display: inline-block;
+    max-width: fit-content;
+    /* height: 180px; */
+    margin: 7px;
+    flex-wrap: nowrap;
+    background: rgba(255, 255, 255, 0.6)  ;  
+    border: 1px lightskyblue solid;
+}
+
+.Card h3 {
+    margin: 0;
+}

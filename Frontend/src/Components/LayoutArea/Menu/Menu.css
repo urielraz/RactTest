@@ -1,0 +1,15 @@
+.Menu {
+	display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.Menu a{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.Menu a.active{
+    font-weight: 700;
+}

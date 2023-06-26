@@ -1,0 +1,11 @@
+.Layout {
+	height: 100%;
+}
+
+.Layout .Header{
+    height: 10%;
+}
+
+.Layout .Main{
+    height: 90%;
+}

@@ -1,0 +1,128 @@
+18.5.2023, 11:30:27 	 Route /api/theaterfs/ Not Found!!!
+----------------------------
+18.5.2023, 11:42:02 	 Route /api/getAllMoviesByTheater/1 Not Found!!!
+----------------------------
+18.5.2023, 11:44:22 	 "movie_id" is required
+----------------------------
+18.5.2023, 11:45:39 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:46:28 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:47:30 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:47:41 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:48:07 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:48:10 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:48:40 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:50:17 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:50:44 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:53:30 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:54:00 	 "theater_id" is required
+----------------------------
+18.5.2023, 11:56:13 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10:25:19.000000,98)' at line 1
+----------------------------
+18.5.2023, 11:56:45 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10:25:19.000000,98)' at line 1
+----------------------------
+18.5.2023, 12:00:02 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10:25:19.000000,98)' at line 1
+----------------------------
+18.5.2023, 12:00:31 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10:25:19.000000,98)' at line 1
+----------------------------
+18.5.2023, 12:00:31 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10:25:19.000000,98)' at line 1
+----------------------------
+18.5.2023, 12:00:53 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12:00:41,98)' at line 1
+----------------------------
+18.5.2023, 12:00:57 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12:00:41,98)' at line 1
+----------------------------
+18.5.2023, 12:01:58 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12:01:30,98)' at line 1
+----------------------------
+18.5.2023, 12:02:33 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12:01:30,98)' at line 1
+----------------------------
+18.5.2023, 12:02:45 	 "date_time" must be a valid date
+----------------------------
+18.5.2023, 12:02:53 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12:01:30.65,98)' at line 1
+----------------------------
+18.5.2023, 12:03:05 	 "date_time" must be a valid date
+----------------------------
+18.5.2023, 12:03:11 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12:01:30.65,98)' at line 1
+----------------------------
+18.5.2023, 12:03:38 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12:01:30,98)' at line 1
+----------------------------
+18.5.2023, 12:04:45 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '11:04:35.000000,98)' at line 1
+----------------------------
+18.5.2023, 12:05:58 	 "date_time" must be a valid date
+----------------------------
+18.5.2023, 12:06:00 	 "date_time" must be a valid date
+----------------------------
+18.5.2023, 12:06:35 	 "date_time" must be a valid date
+----------------------------
+18.5.2023, 12:06:40 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '13:23:44,98)' at line 1
+----------------------------
+18.5.2023, 12:07:34 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10:34:53.44,98)' at line 1
+----------------------------
+18.5.2023, 12:07:45 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10:34:53.44,75)' at line 1
+----------------------------
+18.5.2023, 12:07:57 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10:34:53,75)' at line 1
+----------------------------
+18.5.2023, 12:08:21 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10:34:53,75)' at line 1
+----------------------------
+18.5.2023, 14:12:15 	 Route /api/getAllMovieByTheater1 Not Found!!!
+----------------------------
+18.5.2023, 14:12:23 	 Route /api/getAllMovieByTheater2 Not Found!!!
+----------------------------
+18.5.2023, 15:33:14 	 "duration" must be a number
+----------------------------
+18.5.2023, 15:39:23 	 Route /api/movies4 Not Found!!!
+----------------------------
+18.5.2023, 15:39:23 	 Route /api/movies6 Not Found!!!
+----------------------------
+18.5.2023, 15:39:23 	 Route /api/movies8 Not Found!!!
+----------------------------
+18.5.2023, 15:39:23 	 Route /api/movies9 Not Found!!!
+----------------------------
+18.5.2023, 15:39:29 	 Route /api/movies5 Not Found!!!
+----------------------------
+18.5.2023, 15:39:29 	 Route /api/movies10 Not Found!!!
+----------------------------
+18.5.2023, 15:39:34 	 Route /api/movies4 Not Found!!!
+----------------------------
+18.5.2023, 15:39:34 	 Route /api/movies8 Not Found!!!
+----------------------------
+18.5.2023, 15:39:34 	 Route /api/movies6 Not Found!!!
+----------------------------
+18.5.2023, 15:39:34 	 Route /api/movies9 Not Found!!!
+----------------------------
+18.5.2023, 15:39:36 	 Route /api/movies5 Not Found!!!
+----------------------------
+18.5.2023, 15:39:36 	 Route /api/movies10 Not Found!!!
+----------------------------
+18.5.2023, 15:40:53 	 Route /api/movies4 Not Found!!!
+----------------------------
+18.5.2023, 15:40:53 	 Route /api/movies6 Not Found!!!
+----------------------------
+18.5.2023, 15:40:53 	 Route /api/movies8 Not Found!!!
+----------------------------
+18.5.2023, 15:40:53 	 Route /api/movies9 Not Found!!!
+----------------------------
+21.5.2023, 20:10:39 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+21.5.2023, 20:11:36 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+21.5.2023, 20:11:39 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+21.5.2023, 20:16:20 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+21.5.2023, 20:21:53 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+21.5.2023, 20:22:10 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+21.5.2023, 20:22:31 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
+21.5.2023, 20:22:41 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+----------------------------
